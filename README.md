@@ -3,10 +3,10 @@ Wednesday AI Voice Assistant 🤖🎤
 A browser-based AI Virtual Voice Assistant built using HTML, CSS, and JavaScript.
 The assistant can recognize voice commands, respond with speech, open websites, search Google, provide weather updates, play YouTube content, and improve productivity with tools like Pomodoro Timer.
 
-🚀 Live Demo
+🚀 Live Demo:
+## Live Demo
+🔗 https://wednesday-ai-voice-assistant.netlify.app/
 
-🌐 Live Website:
-Wednesday AI Voice Assistant
 
 📌 Features
 🎤 Voice Recognition
